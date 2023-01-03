@@ -9,7 +9,7 @@
 <hr>
 
 ## About this project 
-This is repo for ours captcha client that will communtication between user and sever and it will render challengs for user 
+This is repo for ours unity game that we building from **Visual scripting**
 
 > You will facing three from six challenging game for ours captcha
 
